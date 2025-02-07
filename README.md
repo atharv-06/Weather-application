@@ -1,6 +1,6 @@
 # Weather-application
 
-Weather Application
+Weather Application:
 Technologies Used: React.js, Vite, OpenWeather API, JavaScript, HTML, CSS
 
 Project Overview:
